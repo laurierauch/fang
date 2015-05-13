@@ -80,10 +80,10 @@ if ( post_password_required() ) {
 		  'id_submit'         => 'submit',
 		  'class_submit'      => 'submit',
 		  'name_submit'       => 'submit',
-		  'title_reply'       => __( 'Leave a Reply' ),
-		  'title_reply_to'    => __( 'Leave a Reply to %s' ),
-		  'cancel_reply_link' => __( 'Cancel Reply' ),
-		  'label_submit'      => __( 'Have Your Say' ),
+		  'title_reply'       => __( 'Leave a Reply' , 'codediva' ),
+		  'title_reply_to'    => __( 'Leave a Reply to %s' , 'codediva' ),
+		  'cancel_reply_link' => __( 'Cancel Reply' , 'codediva' ),
+		  'label_submit'      => __( 'Have Your Say' , 'codediva' ),
 		  'format'            => 'xhtml',
 		);
 		comment_form($comments_args);		
