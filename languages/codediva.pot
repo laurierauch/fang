@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fang 1.0.0\n"
+"POT-Creation-Date: 2015-05-13 13:54-0500\n"
+"PO-Revision-Date: 2015-05-13 13:54-0500\n"
+"Last-Translator: Laurie M. Rauch <laurie@codediva.com>\n"
+"Language-Team: Code Diva Inc. <hello@codediva.com>\n"
+"Language: en_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __(;_e;esc_html__;esc_html_e;_n;_x;_nx;_n(;_x(;_nx(\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"We&apos;re sorry, the page you have reached is no longer in service. Please "
+"check your spelling and try again. If you cannot find your page, try one of "
+"the links below or search for your page."
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#: comments.php:20
+#, php-format
+msgid "One comment on %2$s"
+msgstr ""
+
+#: comments.php:33 comments.php:58
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:42
+msgid "Menu"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:76 inc/template-tags.php:108
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:82
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:138
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:143
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:201
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:203
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:205
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:208
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:210
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:212
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:214
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:216
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:218
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:220
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:222
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:224
+msgid "Chats"
+msgstr ""
+
+#: inc/template-tags.php:339
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:354
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:361
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search term. Please try again with a "
+"different keyword."
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid ""
+"Sorry, there&apos;s no content available for this page. You may want to try "
+"a search:"
+msgstr ""
