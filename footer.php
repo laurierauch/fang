@@ -41,6 +41,7 @@
 					<p class="copyright">&copy; <?php echo date('Y'); ?> <a href="<?php echo home_url(); ?>"><?php bloginfo( 'name' ); ?></a>. All Rights Reserved.</p> 
                     <p class="credits"><?php printf( __( 'Theme: %1$s by %2$s.', 'codediva' ), 'Fang', '<a href="http://codediva.com" rel="designer">Code Diva</a>' ); ?></p>
 		</div><!-- .site-info -->
+	</div><!-- .container -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
