@@ -39,7 +39,7 @@
 					)
 				);			
 			} ?>
-			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><?php esc_html_e( 'Menu', 'codediva' ); ?></button>
+			<button class="menu-toggle" aria-controls="menu-main" aria-expanded="false"><?php esc_html_e( 'Menu', 'codediva' ); ?></button>
 			<?php wp_nav_menu( array(
 				'theme_location'  => 'primary',
 				'container'       => 'div',
@@ -59,4 +59,4 @@
 		</div><!-- .site-branding -->
 	</header><!-- #masthead -->
 
-	<div id="content" class="site-content container">
+<div id="content" class="site-content container">
