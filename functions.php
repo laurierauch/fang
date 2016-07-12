@@ -112,3 +112,6 @@ require get_template_directory() . '/inc/customizer.php';
 
 // Call the file that makes the theme compatible with Jetpack
 require get_template_directory() . '/inc/jetpack.php';
+
+// Call the file that we use for playing in CCT460
+require get_template_directory() . '/inc/children.php';
